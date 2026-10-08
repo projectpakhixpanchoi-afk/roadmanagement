@@ -1,0 +1,21 @@
+# RoadSense AI configuration
+APP_NAME=RoadSense AI
+REGION_NAME=Demo District
+ADMIN_PASSWORD=admin123
+
+# Optional Groq AI integration
+GROQ_API_KEY=
+GROQ_MODEL=llama-3.1-8b-instant
+
+# Optional weather integration
+OPENWEATHER_API_KEY=
+WEATHER_CITY=Guwahati
+
+# Operations
+ROAD_MAINTENANCE_BUDGET=5000000
+CRITICAL_PRIORITY_THRESHOLD=80
+ROAD_RISK_THRESHOLD=70
+
+# Central road office/sample coordinates
+OFFICE_LAT=26.1445
+OFFICE_LON=91.7362

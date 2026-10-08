@@ -1,0 +1,6 @@
+@echo off
+echo Installing/checking dependencies...
+pip install -r requirements.txt
+echo Starting RoadSense AI...
+streamlit run app.py
+pause
